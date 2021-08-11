@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alexa
 - 👀 I’m interested in software engineering and AI technology
 - 🌱 I’m currently learning program synthesis by building a synthesis engine for introductory computer science classes
-- 💞️ I’m looking to collaborate on projects that allow me to learn PHP
+- 💞️ I’m looking to collaborate on projects that allow me to learn more JavaScript
 - 📫 How to reach me : alexahennen@hotmail.com
 
 <!---
